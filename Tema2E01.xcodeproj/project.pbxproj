@@ -19,7 +19,6 @@
 		F1D20F3818CFA3D100905627 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1D20F2018CFA3D100905627 /* UIKit.framework */; };
 		F1D20F4018CFA3D100905627 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F1D20F3E18CFA3D100905627 /* InfoPlist.strings */; };
 		F1D20F4218CFA3D100905627 /* Tema2E01Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1D20F4118CFA3D100905627 /* Tema2E01Tests.m */; };
-		F1D20F4C18CFA42C00905627 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1D20F4B18CFA42C00905627 /* MainStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,7 +48,6 @@
 		F1D20F3D18CFA3D100905627 /* Tema2E01Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tema2E01Tests-Info.plist"; sourceTree = "<group>"; };
 		F1D20F3F18CFA3D100905627 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F1D20F4118CFA3D100905627 /* Tema2E01Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tema2E01Tests.m; sourceTree = "<group>"; };
-		F1D20F4B18CFA42C00905627 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +109,6 @@
 			children = (
 				F1D20F2B18CFA3D100905627 /* t2e01AppDelegate.h */,
 				F1D20F2C18CFA3D100905627 /* t2e01AppDelegate.m */,
-				F1D20F4B18CFA42C00905627 /* MainStoryboard.storyboard */,
 				F1D20F2E18CFA3D100905627 /* Images.xcassets */,
 				F1D20F2318CFA3D100905627 /* Supporting Files */,
 			);
@@ -223,7 +220,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1D20F4C18CFA42C00905627 /* MainStoryboard.storyboard in Resources */,
 				F1D20F2718CFA3D100905627 /* InfoPlist.strings in Resources */,
 				F1D20F2F18CFA3D100905627 /* Images.xcassets in Resources */,
 			);
